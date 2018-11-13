@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-	"gonum.org/v1/gonum/floats"
+	"gonum.org/v1/floats"
 )
 
 // A Transformer takes input coordinates and returns output coordinates and an error.
